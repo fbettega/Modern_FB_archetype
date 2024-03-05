@@ -1,0 +1,11 @@
+{
+  "Name": "GenericMidrange",
+  "IncludeColorInName": true,
+  "CommonCards": [
+	"Bolas's Citadel",
+	"Zuran Orb",
+	"Lotus Bloom",
+	"Whir of Invention",
+	"Beseech the Mirror"
+  ]
+}

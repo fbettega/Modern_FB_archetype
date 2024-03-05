@@ -1,0 +1,22 @@
+{
+  "Name": "Discover Combo",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Geological Appraiser","Trumpeting Carnosaur"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Imodane's Recruiter // Train Troops","Doomskar Titan"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Indomitable Creativity"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Glasspool Mimic // Glasspool Shore","Glasspool Mimic","Phantasmal Image","Mirror Image"]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Name": "GenericStorm",
+  "IncludeColorInName": true,
+  "CommonCards": [
+"Desperate Ritual",
+"Pyretic Ritual",
+"Irencrag Feat",
+"Lotus Bloom",
+"Dragonstorm"
+  ]
+}

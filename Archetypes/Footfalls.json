@@ -1,0 +1,31 @@
+{
+  "Name": "Footfalls",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Shardless Agent"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Crashing Footfalls"]
+    }
+  ],
+  "Variants": [
+    {
+      "Name": "Footfalls4C",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+        "Type": "InMainboard",
+        "Cards": ["Ardent Plea"]
+      },
+      {
+        "Type": "InMainboard",
+        "Cards": ["Leyline Binding"]
+      }
+
+      ]
+    }
+    ]
+}

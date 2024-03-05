@@ -1,0 +1,14 @@
+{
+    "Name": "Slivers",
+    "IncludeColorInName": false,
+    "Conditions": [
+        {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Sinew Sliver","Dregscape Sliver"]
+          },
+          {
+            "Type": "OneOrMoreInMainboard",
+            "Cards": ["Cloudshredder Sliver","Aether Vial"]
+          }
+    ]
+}

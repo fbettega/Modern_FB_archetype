@@ -1,0 +1,34 @@
+{
+  "Name": "Scam",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Grief","Fury","Dauthi Voidwalker","Orcish Bowmasters","Fable of the Mirror-Breaker"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Malakir Rebirth","Undying Evil","Undying Malice","Feign Death","Not Dead After All"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Ragavan, Nimble Pilferer"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Death's Shadow"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Mayhem Devil"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Stoneforge Mystic"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Archon of Cruelty"]
+    }
+  ]
+}

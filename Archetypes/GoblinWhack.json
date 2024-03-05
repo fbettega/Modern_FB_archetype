@@ -1,0 +1,14 @@
+{
+  "Name": "GoblinWhack",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Goblin Bushwhacker"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Goblin Grenade"]
+    }
+  ]
+}

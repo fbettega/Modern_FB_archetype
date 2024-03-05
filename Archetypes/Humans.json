@@ -1,0 +1,14 @@
+{
+  "Name": "Humans",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Thalia's Lieutenant","Thalia, Guardian of Thraben","Kitesail Freebooter","Esper Sentinel"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Champion of the Parish","Mantis Rider","Meddling Mage","Intrepid Adversary","Unsettled Mariner","Extraction Specialist","Adeline, Resplendent Cathar"]
+    }
+  ]
+}

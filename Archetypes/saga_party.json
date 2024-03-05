@@ -1,0 +1,22 @@
+{
+  "Name": "SagaParty",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Wrenn and Six"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Urza's Saga"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Colossus Hammer"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Asmoranomardicadaistinaculdacar"]
+    }
+  ]
+}
