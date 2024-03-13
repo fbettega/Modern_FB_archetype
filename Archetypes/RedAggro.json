@@ -117,7 +117,7 @@
           "Cards": ["Spell Pierce"]
         },
         {
-          "Type": "DoesNotContain",
+          "Type": "DoesNotContainMainboard",
           "Cards": ["Murktide Regent"]
         }
       ]

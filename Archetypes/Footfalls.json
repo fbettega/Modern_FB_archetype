@@ -17,15 +17,14 @@
       "IncludeColorInName": false,
       "Conditions": [
         {
-        "Type": "InMainboard",
-        "Cards": ["Ardent Plea"]
+        "Type": "OneOrMoreInMainboard",
+        "Cards": ["Ardent Plea","Leyline of the Guildpact"]
       },
-      {
-        "Type": "InMainboard",
-        "Cards": ["Leyline Binding"]
-      }
-
+       {
+          "Type": "DoesNotContain",
+          "Cards": ["Valakut, the Molten Pinnacle"]
+        }
       ]
     }
-    ]
+  ]
 }

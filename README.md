@@ -1,2 +1,2 @@
 # Modern_FB_archetype
-own version of modern archetype for badaro
+own version of modern archetype for badaro archetype parser
