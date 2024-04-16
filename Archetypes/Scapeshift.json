@@ -26,7 +26,7 @@
       "Conditions": [
 		{
 		  "Type": "OneOrMoreInMainboard",
-		  "Cards": ["Remand", "Omnath, Locus of Creation"]
+		  "Cards": ["Remand", "Omnath, Locus of Creation","Bring To Light"]
 		}
       ]
     }

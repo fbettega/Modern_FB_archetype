@@ -1,6 +1,6 @@
 {
   "Name": "Sacrifice",
-  "IncludeColorInName": true,
+  "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",

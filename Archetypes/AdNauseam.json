@@ -15,6 +15,10 @@
       "Cards": ["Phyrexian Unlife"]
     },
     {
+      "Type": "InMainboard",
+      "Cards": ["Pentad Prism"]
+    },
+    {
       "Type": "DoesNotContain",
       "Cards": ["Inverter of Truth"]
     }

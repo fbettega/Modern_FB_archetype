@@ -3,8 +3,12 @@
   "IncludeColorInName": false,
   "Conditions": [
     {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["The Rack"]
+    },
+    {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["The Rack","Shrieking Affliction", "Davriel, Rogue Shadowmage","Raven's Crime"]
+      "Cards": ["Shrieking Affliction", "Davriel, Rogue Shadowmage","Raven's Crime","Liliana of the Veil"]
     },
     {
       "Type": "OneOrMoreInMainboard",

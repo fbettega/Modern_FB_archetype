@@ -1,0 +1,22 @@
+{
+  "Name": "MonoBlackMidrange",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["The One Ring","Sheoldred, the Apocalypse","Grief","Dauthi Voidwalker"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Castle Locthwain"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Urborg, Tomb of Yawgmoth"]
+    },
+    {
+      "Type": "OneOrMoreInMainboard",
+      "Cards": ["Demolition Field", "Field of Ruin"]
+    }
+  ]
+}

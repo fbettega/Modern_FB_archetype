@@ -1,0 +1,100 @@
+{
+  "Name": "TheRockMidrange",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Inquisition of Kozilek","Ragavan, Nimble Pilferer","Orcish Bowmasters","Tarmogoyf"]
+    },
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Lightning Bolt","Fable of the Mirror-Breaker","Fatal Push","Thoughtseize" ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Death's Shadow"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Arclight Phoenix"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Delver of Secrets"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Colossus Hammer"]
+    },
+	{
+      "Type": "DoesNotContain",
+      "Cards": ["Asmoranomardicadaistinaculdacar"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Murktide Regent"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Drown in the Loch"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Ice-Fang Coatl"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Subtlety"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Flame of Anor"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Counterspell"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Expressive Iteration"]
+    },
+	{
+	  "Type": "DoesNotContain",
+	  "Cards": ["Grinding Station"]
+	},
+	{
+	  "Type": "DoesNotContain",
+	  "Cards": ["Tribal Flames"]
+	},
+	{
+	  "Type": "DoesNotContain",
+	  "Cards": ["Reckless Bushwhacker"]
+	},
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Yawgmoth, Thran Physician"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Archon of Cruelty"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Goblin Anarchomancer"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Reprieve"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["The Rack"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Goblin Anarchomancer"]
+    }
+  ]
+}
+
+

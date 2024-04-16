@@ -1,0 +1,10 @@
+{
+  "Name": "Miracle",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "TwoOrMoreInMainboard",
+      "Cards": ["Counterbalance","Terminus","Entreat the Angels","Temporal Mastery"]
+    }
+  ]
+}

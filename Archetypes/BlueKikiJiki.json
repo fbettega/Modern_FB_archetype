@@ -1,6 +1,6 @@
 {
   "Name": "KikiJiki",
-  "IncludeColorInName": true,
+  "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",

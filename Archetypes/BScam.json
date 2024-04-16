@@ -1,17 +1,23 @@
 {
   "Name": "Scam",
-  "IncludeColorInName": false,
+  "IncludeColorInName": true,
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Grief","Fury","Dauthi Voidwalker","Orcish Bowmasters","Fable of the Mirror-Breaker"]
+      "Cards": ["Grief", "Dauthi Voidwalker", "Orcish Bowmasters"]
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Malakir Rebirth","Undying Evil","Undying Malice","Feign Death","Not Dead After All"]
+      "Cards": [
+        "Malakir Rebirth",
+        "Undying Evil",
+        "Undying Malice",
+        "Feign Death",
+        "Not Dead After All"
+      ]
     },
     {
-      "Type": "InMainboard",
+      "Type": "DoesNotContain",
       "Cards": ["Ragavan, Nimble Pilferer"]
     },
     {
