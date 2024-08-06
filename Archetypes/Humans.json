@@ -9,6 +9,11 @@
     {
       "Type": "OneOrMoreInMainboard",
       "Cards": ["Champion of the Parish","Mantis Rider","Meddling Mage","Intrepid Adversary","Unsettled Mariner","Extraction Specialist","Adeline, Resplendent Cathar"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Colossus Hammer"]
     }
+
   ]
 }

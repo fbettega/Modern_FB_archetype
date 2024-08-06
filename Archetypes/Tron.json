@@ -1,6 +1,6 @@
 {
   "Name": "GenericTron",
-  "IncludeColorInName": true,
+  "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
@@ -17,16 +17,30 @@
           "Cards": ["Eldrazi Temple"]
         },
         {
-          "Type": "InMainboard",
-          "Cards": ["Thought-Knot Seer"]
-        },
-        {
-          "Type": "OneOrMoreInMainboard",
-          "Cards": ["Matter Reshaper","Reality Smasher","Oblivion Sower","Endbringer"]
+          "Type": "TwoOrMoreInMainboard",
+          "Cards": ["Thought-Knot Seer","Matter Reshaper","Reality Smasher","Oblivion Sower","Endbringer"]
         },
         {
           "Type": "DoesNotContain",
           "Cards": ["Chromatic Star"]
+        }
+      ]
+    },
+    {
+      "Name": "PrisonTron",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "TwoOrMoreInMainboard",
+          "Cards": ["Chalice of the Void","Pithing Needle","Ensnaring Bridge","Trinisphere","The Underworld Cookbook"]
+        },
+        {
+          "Type": "OneOrMoreInMainboard",
+          "Cards": ["Inventors' Fair","Ugin's Labyrinth"]
+        },
+		{
+          "Type": "DoesNotContain",
+          "Cards": ["Coretapper"]
         }
       ]
     },
@@ -45,24 +59,16 @@
       ]
     },
     {
-      "Name": "PrisonTron",
+      "Name": "AnvilTron",
       "IncludeColorInName": false,
       "Conditions": [
         {
-          "Type": "OneOrMoreInMainboard",
-          "Cards": ["Chalice of the Void","Pithing Needle"]
+          "Type": "InMainboard",
+          "Cards": ["Semblance Anvil"]
         },
         {
           "Type": "InMainboard",
-          "Cards": ["Ensnaring Bridge"]
-        },
-        {
-          "Type": "InMainboard",
-          "Cards": ["Inventors' Fair"]
-        },
-		{
-          "Type": "DoesNotContain",
-          "Cards": ["Coretapper"]
+          "Cards": ["Myr Retriever"]
         }
       ]
     }

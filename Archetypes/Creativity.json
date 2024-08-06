@@ -22,7 +22,7 @@
   "Variants": [
     {
       "Name": "CreativityPersist",
-      "IncludeColorInName": false,d
+      "IncludeColorInName": false,
       "Conditions": [
         {
           "Type": "InMainboard",
