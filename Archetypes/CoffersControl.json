@@ -19,6 +19,14 @@
         "Deadly Cover-Up",
         "March of Wretched Sorrow"
       ]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Leyline of the Guildpact"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Persist"]
     }
   ]
 }

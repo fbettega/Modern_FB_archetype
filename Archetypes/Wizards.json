@@ -8,7 +8,11 @@
     },
     {
       "Type": "OneOrMoreInMainboard",
-      "Cards": ["Tishana's Tidebinder", "Snapcaster Mage"]
+      "Cards": [
+        "Tishana's Tidebinder",
+        "Snapcaster Mage",
+        "Tamiyo, Inquisitive Student"
+      ]
     },
     {
       "Type": "DoesNotContain",

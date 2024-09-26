@@ -4,9 +4,23 @@
   "Conditions": [
     {
       "Type": "TwoOrMoreInMainboard",
-      "Cards": ["Goblin Guide","Eidolon of the Great Revel","Monastery Swiftspear","Soul-Scar Mage",
-		"Abbot of Keral Keep","Kiln Fiend","Stormwing Entity","Sprite Dragon","Nivmagus Elemental","Clever Lumimancer",
-		"Ragavan, Nimble Pilferer","Dragon's Rage Channeler","Ledger Shredder","Bomat Courier"]
+      "Cards": [
+        "Goblin Guide",
+        "Eidolon of the Great Revel",
+        "Monastery Swiftspear",
+        "Soul-Scar Mage",
+        "Abbot of Keral Keep",
+        "Kiln Fiend",
+        "Stormwing Entity",
+        "Sprite Dragon",
+        "Nivmagus Elemental",
+        "Clever Lumimancer",
+        "Ragavan, Nimble Pilferer",
+        "Dragon's Rage Channeler",
+        "Ledger Shredder",
+        "Slickshot Show-Off",
+        "Bomat Courier"
+      ]
     },
     {
       "Type": "InMainboard",
@@ -28,22 +42,22 @@
       "Type": "DoesNotContainMainboard",
       "Cards": ["Dauthi Voidwalker"]
     },
-	{
+    {
       "Type": "DoesNotContain",
       "Cards": ["Asmoranomardicadaistinaculdacar"]
     },
-	{
-	  "Type": "DoesNotContain",
-	  "Cards": ["Grinding Station"]
-	},
-	{
-	  "Type": "DoesNotContain",
-	  "Cards": ["Tribal Flames"]
-	},
-	{
-	  "Type": "DoesNotContain",
-	  "Cards": ["Reckless Bushwhacker"]
-	},
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Grinding Station"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Tribal Flames"]
+    },
+    {
+      "Type": "DoesNotContain",
+      "Cards": ["Reckless Bushwhacker"]
+    },
     {
       "Type": "DoesNotContain",
       "Cards": ["Archon of Cruelty"]
@@ -60,11 +74,23 @@
       "Conditions": [
         {
           "Type": "OneOrMoreInMainboard",
-          "Cards": ["Goblin Guide","Eidolon of the Great Revel"]
+          "Cards": [
+            "Goblin Guide",
+            "Eidolon of the Great Revel",
+            "Slickshot Show-Off"
+          ]
         },
         {
           "Type": "TwoOrMoreInMainboard",
-          "Cards": ["Rift Bolt","Skewer the Critics","Lightning Helix","Boros Charm","Skullcrack","Searing Blaze","Atarka's Command"]
+          "Cards": [
+            "Rift Bolt",
+            "Skewer the Critics",
+            "Lightning Helix",
+            "Boros Charm",
+            "Skullcrack",
+            "Searing Blaze",
+            "Atarka's Command"
+          ]
         }
       ]
     },
@@ -74,7 +100,15 @@
       "Conditions": [
         {
           "Type": "OneOrMoreInMainboard",
-          "Cards": ["Soul-Scar Mage","Abbot of Keral Keep","Kiln Fiend","Lava Dart","Stormwing Entity","Nivmagus Elemental"]
+          "Cards": [
+            "Soul-Scar Mage",
+            "Abbot of Keral Keep",
+            "Slickshot Show-Off",
+            "Kiln Fiend",
+            "Stormwing Entity",
+            "Nivmagus Elemental",
+	    "Lava Dart"
+          ]
         },
         {
           "Type": "DoesNotContainMainboard",
@@ -102,7 +136,7 @@
           "Type": "InSideboard",
           "Cards": ["Obosh, the Preypiercer"]
         }
-	  ]
+      ]
     },
     {
       "Name": "BreachValue",
@@ -112,7 +146,7 @@
           "Type": "InMainboard",
           "Cards": ["Underworld Breach"]
         },
-	    {
+        {
           "Type": "OneOrMoreInMainboard",
           "Cards": ["Spell Pierce"]
         },
@@ -130,9 +164,9 @@
           "Type": "InMainboard",
           "Cards": ["Ragavan, Nimble Pilferer"]
         },
-	    {
+        {
           "Type": "OneOrMoreInMainboard",
-          "Cards": ["Counterspell","Force of Negation","Drown in the Loch"]
+          "Cards": ["Counterspell", "Force of Negation", "Drown in the Loch"]
         },
         {
           "Type": "InMainboard",
